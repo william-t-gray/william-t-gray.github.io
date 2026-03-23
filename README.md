@@ -3,7 +3,7 @@
 🎓 Recent Penn State Graduate  
 💻 Interested in Software Development / IT / Data  
 
-## 🔧 Skills
+# 🔧 Skills
 - SQL (PostgreSQL)
 - Java
 - Basic VB.NET
